@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Magno : Form
+    public partial class Nathan : Form
     {
-        public Magno()
+        public Nathan()
         {
             InitializeComponent();
         }
